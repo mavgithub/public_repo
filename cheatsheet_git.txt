@@ -1,0 +1,13 @@
+# clone
+git clone https://gitlab.company.com/project/file.git
+or
+git@gitlab.company.com:project/file.git
+
+git branch name_it
+git checkout name_it
+
+
+# pull changes from master into branch
+git fetch
+git pull origin master
+
